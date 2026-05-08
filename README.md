@@ -74,7 +74,7 @@ Viele Kanzleien bieten Pauschalpreise von 150–400 € für die komplette auße
 
 ## Kontakt
 
-
+MAIL: legalkarusell@proton.me
 
 
 **Wichtig:** Das ist **keine Rechtsberatung**.
