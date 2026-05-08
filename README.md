@@ -1,4 +1,4 @@
-# Abmahnung-Abwehr-Guide   
+lol# Abmahnung-Abwehr-Guide   
 ## Warum?
 Die Abmahnpraktiken sind **sozial hochgradig ungerecht** und eine massive Überbelastung für normale Familien, Alleinerziehende und Durchschnittshaushalte: Tausende werden für Taten Dritter (Kinder, Mitbewohner, Gäste oder Passanten) mit vierstelligen Forderungen haftbar gemacht – oft ohne jedes eigene Verschulden.  
 
@@ -71,7 +71,7 @@ Viele Kanzleien bieten Pauschalpreise von 150–400 € für die komplette auße
 ## Hilfreiche Links
 
 - [Online Widerspruch Mahnantrag](https://www.online-mahnantrag.de/omahn/Mahnantrag?Command=neuerWSAntragUndShowStartWS)
-
+- https://github.com/milahu/deutschetorrents/blob/main/abmahnungen.txt
 ## Kontakt
 
 MAIL: legalkarusell@proton.me
