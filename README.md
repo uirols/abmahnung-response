@@ -25,7 +25,7 @@ Router war ungesichert oder Passwort bekannt.
 
 Gerichte vermuten zunächst du bist der Täter. Du musst das durch sekundäre Darlegungslast widerlegen.
 
-Du musst glaubhaft widerlegen:
+Du musst ggf. glaubhaft widerlegen:
 
 Konkret nennen, wer alles zum Tatzeitpunkt Zugang zum WLAN hatte (Familie, Mitbewohner, Gäste, Besucher, Kinder, Nachbarn).
 Erklären, warum diese Personen die Filesharing-Tat begangen haben könnten.
@@ -34,6 +34,18 @@ Belege angeben (z. B. Router-Logs, Geräteliste, Urlaubs-/Arbeitszeiten, offenes
 
 ## Wie verläuft das Verfahren?
 
+Ein typisches Filesharing-Verfahren beispielsweise von Frommer Legal läuft vermutlich **vollautomatisiert** und oft über mehrere Jahre hinweg. Hier die realistische Abfolge (Stand 2026):
+
+| Zeitpunkt          | Schritt                          | Was passiert? |
+|--------------------|----------------------------------|---------------|
+| **0–4 Wochen**     | **Erste Abmahnung**              | Kanzlei schickt außergerichtlichen Brief mit Forderung (800–1.700 €) + Unterlassungserklärung. |
+| **1–6 Monate**     | **Reaktion der Gegenseite**      | Du oder dein Anwalt widersprichst (meist per Mueller.legal oder CCC). Gegnerische Kanzlei ignoriert das oft. |
+| **6 Monate – 3 Jahre** | **Mahnbescheid**              | Automatischer Mahnbescheid vom Amtsgericht Wedding (oder anderem Mahngericht). Sieht amtlich und bedrohlich aus. |
+| **Innerhalb 2 Wochen** | **Widerspruch**               | Du legst Widerspruch ein → Verfahren gestoppt. |
+| **1–12 Monate nach Widerspruch** | **Klage**              | Kanzlei reicht Klage ein (optional). |
+| **2–6 Monate nach Klage** | **Klageerwiderung + Verhandlung** | Sekundäre Darlegungslast wird geprüft - Vergleich oder Urteil. |
+
+Viele Fälle sterben bereits nach dem Widerspruch gegen den Mahnbescheid oder nach einer starken Klageerwiderung. Nur ein kleiner Teil geht bis zum Urteil.
 
 
 ## Urteile
